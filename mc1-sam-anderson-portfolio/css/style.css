@@ -1,1 +1,78 @@
-/* Write CSS code here */
+body{
+    background-color: lavenderblush;
+}
+#h1{
+    border: 2px solid black;
+    display: inline; 
+    margin-left: 400px;
+    border-radius: 10%;
+    font-family: latin;
+    font-style: italic;
+    padding: 5px;
+}
+#id{
+      background-color: lightcoral;
+      text-align: center;
+      margin-left: 500px;
+      margin-right: 500px;
+      font-size: 20px;
+      color: white;
+      display: inline block;
+      text-transform: uppercase;
+     padding-top: 5px;
+     padding-bottom: 5px;
+   
+}div img{
+      margin-left: 550px;
+      width: 350px;
+      height: 350px;
+  }
+  #h2{
+      font-size: 40px;
+      text-align: center;
+      text-transform: uppercase;
+      font: 3em sans-serif;
+      font-style: bold;
+      color: rgb(50, 50, 50) ;
+    font-family:cursive;
+  }#p1{
+     font-size: 20px;
+     text-align: center;
+     width: 400px;
+    margin-left: 550px;
+  }h2{
+      text-align: center;
+      margin-right: 200px;
+      font-family:'Courier New', Courier, monospace;
+     color: grey;
+     text-transform: uppercase;
+ }.h3{
+    text-transform: uppercase;
+    margin-left: 500px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+}p{
+    margin-left: 500px;
+}.h3{
+   list-style-type: none;
+}.nav{
+    margin-left: 500px;
+   font-size: 20px;
+   text-decoration: none;
+   margin-right: 500px;
+  
+ 
+}ul{
+  
+    list-style-type: none;
+}footer{
+    
+    color: gray;
+    text-decoration: none;
+   
+}a{
+    color: rgb(50, 50, 50);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
